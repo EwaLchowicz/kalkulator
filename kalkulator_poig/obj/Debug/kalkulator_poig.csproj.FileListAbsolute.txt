@@ -1,0 +1,15 @@
+C:\Users\Prucfka\source\repos\kalkulator_poig\kalkulator_poig\bin\Debug\kalkulator_poig.exe.config
+C:\Users\Prucfka\source\repos\kalkulator_poig\kalkulator_poig\bin\Debug\kalkulator_poig.exe
+C:\Users\Prucfka\source\repos\kalkulator_poig\kalkulator_poig\bin\Debug\kalkulator_poig.pdb
+C:\Users\Prucfka\source\repos\kalkulator_poig\kalkulator_poig\obj\Debug\kalkulator_poig.csprojAssemblyReference.cache
+C:\Users\Prucfka\source\repos\kalkulator_poig\kalkulator_poig\obj\Debug\MainWindow.g.cs
+C:\Users\Prucfka\source\repos\kalkulator_poig\kalkulator_poig\obj\Debug\App.g.cs
+C:\Users\Prucfka\source\repos\kalkulator_poig\kalkulator_poig\obj\Debug\kalkulator_poig_MarkupCompile.cache
+C:\Users\Prucfka\source\repos\kalkulator_poig\kalkulator_poig\obj\Debug\kalkulator_poig_MarkupCompile.lref
+C:\Users\Prucfka\source\repos\kalkulator_poig\kalkulator_poig\obj\Debug\MainWindow.baml
+C:\Users\Prucfka\source\repos\kalkulator_poig\kalkulator_poig\obj\Debug\kalkulator_poig.g.resources
+C:\Users\Prucfka\source\repos\kalkulator_poig\kalkulator_poig\obj\Debug\kalkulator_poig.Properties.Resources.resources
+C:\Users\Prucfka\source\repos\kalkulator_poig\kalkulator_poig\obj\Debug\kalkulator_poig.csproj.GenerateResource.cache
+C:\Users\Prucfka\source\repos\kalkulator_poig\kalkulator_poig\obj\Debug\kalkulator_poig.csproj.CoreCompileInputs.cache
+C:\Users\Prucfka\source\repos\kalkulator_poig\kalkulator_poig\obj\Debug\kalkulator_poig.exe
+C:\Users\Prucfka\source\repos\kalkulator_poig\kalkulator_poig\obj\Debug\kalkulator_poig.pdb
